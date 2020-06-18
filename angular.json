@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "forgetpass"
+    }
+  },
+  "defaultProject": "forgetpass",
+  "cli": {
+    "analytics": "f5081ed6-7627-437e-9fbd-032e6111dc29"
+  }
 }
